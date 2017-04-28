@@ -11,6 +11,6 @@ See more detail Magebay Multi Vendor: [Magento Multi Vendor](https://www.magebay
 - Advanced Commission allows admin to manage all commission rules
 - Flexible conditions with product attributes
 
-If you have any problems using this module, please let us know by submitting the issues or [Contact us](https://www.magebay.com/about-us/)
+If you have any problems using this module, please let us know by submitting the issues.
 
 Related plugins: [Magento Marketplace Store Locator Extension](https://github.com/magebaycom/magento-marketplace-store-locator-extension)
