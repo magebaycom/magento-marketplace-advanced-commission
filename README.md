@@ -1,7 +1,7 @@
 # Magento Marketplace Advanced Commission Extension
 Magento Marketplace Advanced Commission Extension is a plugin of Magebay Multi Vendor Marketplace Extension for Magento 2. It is very useful for your marketplace website. Admin can create many rules commission for Marketplace. It is flexible to set up any rules commision based on attributes of products
 
-See More Detail [Magento 2 Marketplace Advanced Commission](https://www.magebay.com/magento-marketplace-advanced-commission)
+See More Detail [Magento Marketplace Advanced Commission](https://www.magebay.com/magento-marketplace-advanced-commission)
 
 See more detail Magebay Multi Vendor: [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
